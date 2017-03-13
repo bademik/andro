@@ -35,8 +35,9 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
-
-
+//  comment here
+//  comment here 2
+    //  comment here 3
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
